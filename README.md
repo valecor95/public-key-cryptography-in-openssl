@@ -1,2 +1,2 @@
-# public-key-cryptography-in-openssl
-Homework 6 - Computer and Network Security Sapienza
+# Public-key-cryptography-in-openssl
+Homework 6/7 - Computer and Network Security Sapienza
